@@ -1,29 +1,29 @@
-# Chingu FCC Speedrun Challenge
+# FCC Challenge
+//freecodecamp.org
 
 ## Details
 
 Fork this repository and add your code for each project to the appropriate folder in your repository as you complete each project.
 
-You may work in pairs for phase 1 and you and your pair may share the same repository for phase 1. For phase 2, each participant should create a new repository to contain their personal Portfolio SPA.
+You may work in pairs for phase 1 and you and your pair may share the same repository for phase 1. For phase 2, each participant should create a new repository to contain their personal Portfolio SPA (Single Page Application).
 
 ### The goal (Phase 1)
 
-Complete as many of the FCC Projects as you can in a two week period.
+Complete as many of the FCC Projects as you can before the end of the semester.
 
 To prepare for Phase 2 you'll want to ensure that you use the same "stack" and keep to a consistent coding style across projects.
 
-**Time limit:** two weeks
+**Time limit:** End of Semester
 
 ### The goal (Phase 2)
 
 Integrate all of the FCC Projects you created in Phase 1 into one comprehensive single page portfolio application.
 
-**Time limit:** one week
+**Time limit:** End of Semester
 
 **Deadline to complete both Phases:**
 
-[Countdown Clock](https://countingdownto.com/countdown/chingu-fcc-speedrun-challenge-countdown-clock)
-
+[Countdown Clock]https://countingdownto.com/countdown/fcc-challenge-uvudevclub-org-countdown-clock)
 
 
 ### The Rules
@@ -32,7 +32,6 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 * You may reuse code you previously wrote, but try to improve on your prior effort in some way.
 * You may work in pairs for Phase 1 and contribute to a shared repository for Phase 1.
 * Each individual must complete Phase 2 solo, in their own repository.
-* For each project in Phase 1, each participant must write their own blog post about their experience working on that project. This can be on your own blog, Medium, wherever and can contain whatever you want: a brief blog style ramble about how you felt during the project, a tutorial explaining some concept you learned during the project, a series of photos showing your cat sleeping on your desk while you worked on the project - whatever - but something.
 * All code for Phase 1 should be committed to your fork of this repo.
 * Phase 2 code should be in a separate repository each participant creates to contain their personal Portfolio SPA.
 * You may ask for help and help others - preference should always be given to helping someone understand, not handing them code they don't.
@@ -43,7 +42,7 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 * For Phase 1, all of your code should be committed/pushed to the appropriate directories in your fork of this repository.
 * For Phase 1, you do NOT need to host the projects on a live site, merely test them locally, then commit your code.
-* For Phase 1, you must write a blog post for each project you complete and link to it in the projects table (in your fork of) this README file.
+* For Phase 1, link your final commit to each project in the projects table (in your fork of) this README file.
 * For Phase 2, you must each create a repository to hold your individual Phase 2 project, then link to that project in the portfolio/README.md file of this project.
 * For Phase 2, you must both commit your code to github, and host a live version of your project.
 
@@ -57,7 +56,7 @@ Who can make the most complete and professional looking portfolio in Phase 2?
 
 ## FCC Projects
 
-Copy this table as needed to make a separate table for each team member for recording blog posts
+Copy this table as needed to make a separate table for each team member for recording.
 
 | Complete | Blog Post |Project  |
 |----------|---------|----------|
@@ -92,5 +91,8 @@ Copy this table as needed to make a separate table for each team member for reco
 |      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |
 |      |  [ ]()  | [Manage a Book Trading Club](./backend/app-book-trading) |  |
 |      |  [ ]()  | [Build a Pinterest Clone](./backend/app-pinterest-clone) |  |
+---------------------------------------------------------------------------------------------------------------
 
+Good Luck and Have FUN !!! 
+*http://uvudevclub.org
 
