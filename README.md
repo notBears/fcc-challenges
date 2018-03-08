@@ -1,5 +1,5 @@
 # FCC Challenge
-//freecodecamp.org
+[Free Code Camp](https://freecodecamp.org)
 
 ## Details
 
@@ -23,11 +23,12 @@ Integrate all of the FCC Projects you created in Phase 1 into one comprehensive 
 
 **Deadline to complete both Phases:**
 
-[Countdown Clock]https://countingdownto.com/countdown/fcc-challenge-uvudevclub-org-countdown-clock)
+[Countdown Clock](https://countingdownto.com/countdown/fcc-challenge-uvudevclub-org-countdown-clock)
 
 
 ### The Rules
 
+* --IMPORTANT-- To be qualified for prizes you must COMMIT OFTEN. Small, frequent commits are to help prevent cheating via code copying. 
 * Pick one stack and stick to it (it'll make Phase 2 easier). Any stack is fine, but stick to just one.
 * You may reuse code you previously wrote, but try to improve on your prior effort in some way.
 * You may work in pairs for Phase 1 and contribute to a shared repository for Phase 1.
@@ -94,5 +95,7 @@ Copy this table as needed to make a separate table for each team member for reco
 ---------------------------------------------------------------------------------------------------------------
 
 Good Luck and Have FUN !!! 
-*http://uvudevclub.org
+* http://uvudevclub.org
+
+-- If you get stuck, refer to freecodecamp.org's tutorials or their youtube series.
 
